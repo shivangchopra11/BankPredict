@@ -106,3 +106,5 @@ The following conditions will ensure a greater response rate from the customers:
 3. age <= 67.5
 4. conf.idx <= -28.35
 5. job: {admin, blue-collar, entrepreneur, housemaid}
+
+Therefore, in order to increase the revenue, no of employes employed should not be increased beyond 5087 as increasing them won't recover the cost of their salary as more potential customers cannot be tapped. The customers should be contacted frequently to avoid loss of potential customers and thereby increasing the response. Moreover, the main target customers should be the ones having a blue-collar jobs, Entrepreuners and housemaids as they will be the ones most interested and benefitted from the bank policy.
